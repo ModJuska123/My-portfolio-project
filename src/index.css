@@ -205,14 +205,14 @@ text-decoration: none;
   line-height: 25px;
 }
 
-.programing-language-listing {
+.programming-language-listing {
   display: flex;
   flex-direction: row;
   gap: 0.2rem;
   line-height: 1rem;
 }
 
-.programing-language{
+.programming-language{
   background-color: rgb(46, 85, 107);
   padding: 5px;
   border-radius: 8px;
@@ -221,7 +221,7 @@ text-decoration: none;
   height: 20px;
   
 }
-.programing-language:hover{
+.programming-language:hover{
   background-color: rgb(90, 223, 203);
   padding: 5px;
   border-radius: 8px;
