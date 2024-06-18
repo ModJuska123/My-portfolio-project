@@ -114,7 +114,7 @@ function App() {
           <a className="projects-list-year">in 2024 year</a>
           <div className="projects-list-work">
             <a href="https://github.com/ModJuska123/Movie-Store-API-Automation-Testing-Project"><h5>Web page testing project</h5></a>
-            <h6>I developed several automation testing projects using Postman, Newman and Github Actions.</h6>
+            <h6>I developed automation testing project using Postman, Newman and Github Actions.</h6>
             <div className="programming-language-listing">
               <h6 className="programming-language">Postaman</h6>
               <h6 className="programming-language">Workflow</h6>
@@ -151,9 +151,10 @@ function App() {
 
       <div className="main-links">
         <h2 className="main-links-h2">Links</h2>
+        
         <div className="main-links-general">
           <div className="main-links-list">
-            <a className="links-list-year">GitHub</a>
+            <p className="links-list-year">GitHub</p>
             <div className="links-list-work">
               <a className="links-list-work-a" href="https://github.com/ModJuska123">https://github.com/ModJuska123</a>
             </div>
