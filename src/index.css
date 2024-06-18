@@ -250,3 +250,18 @@ text-decoration: none;
   color: rgb(222, 228, 236);
 }
 
+.projects-list-work > a {
+  color: rgb(222, 228, 236);
+  /* background-color: beige; */
+  text-decoration: none;
+  }
+  .projects-list-work > a:hover {
+  color:crimson;
+  /* background-color: beige; */
+  text-decoration: none;
+  }
+  .projects-list-work > a:active {
+  color:blue;
+  /* background-color: beige; */
+  text-decoration: none;
+  }

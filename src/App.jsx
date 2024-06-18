@@ -42,24 +42,22 @@ function App() {
               <h6 className="programming-language"> Postman​</h6>
               <h6 className="programming-language">Cypress</h6>
               <h6 className="programming-language">JMeter</h6>
+              <h6 className="programming-language">Workflow</h6>
               <h6 className="programming-language">Jira</h6>
             </div>
           </div>
         </div>
 
         <div className="main-experience-list">
-          <a className="experience-list-year">Sep 2023 - Mar 2024</a>
+          <a className="experience-list-year">Mar 2024 - Jun 2024</a>
           <div className="experience-list-work">
             <h5>Technical training in PHP for Beginners course</h5>
             <h6>Fundamentals in PHP, Bootstrap and  MySQL. Structure of code using OOP techniques, upload the code to Hosting account.</h6>
             <div className="programming-language-listing">
               <h6 className="programming-language">PHP</h6>
-              <h6 className="programming-language">Laravel</h6>
               <h6 className="programming-language">MySQL</h6>
-              <h6 className="programming-language">React</h6>
-              <h6 className="programming-language">JavaScript</h6>
-              <h6 className="programming-language">GitHub</h6>
-              <h6 className="programming-language">Git</h6>
+              <h6 className="programming-language">OOP</h6>
+              <h6 className="programming-language">Bootstrap</h6>
             </div>
           </div>
         </div>
@@ -81,12 +79,15 @@ function App() {
         </div>
 
         <div className="main-experience-list">
-          <a className="experience-list-year">Until 2023</a>
+          <a className="experience-list-year">Up to 2023</a>
           <div className="experience-list-work">
-            <h5>Previous jobs</h5>
-            <h6>Lithuanian Armed Forces (logistics, training, team lead) more then 5 y. Ministry of National Defense (logistics, project management, procurement, team lead)  more then 5 y.</h6>
+            <h5>Previous experience</h5>
+            <h6>Lithuanian Armed Forces (logistics, training, team lead) more then 5 y.</h6>
+            <h6>Ministry of National Defense (logistics, project management, procurement, team lead)  more then 5 y.</h6>
             <div className="programming-language-listing">
               <h6 className="programming-language">UI</h6>
+              <h6 className="programming-language">Projects</h6>
+              <h6 className="programming-language">Teamlead</h6>
             </div>
           </div>
         </div>
@@ -94,83 +95,85 @@ function App() {
 
       <div className="main-projects">
         <h2 className="main-projects-h2">Side Projects</h2>
+
         <div className="main-projects-list">
           <a className="projects-list-year">Ongoing</a>
           <div className="projects-list-work">
-            <h5>Web page for company</h5>
-            <h6>Web page for start-up company</h6>
+            <h5>Simple replication of web page</h5>
+            <h6>Web page developed with React and Laravel and MySQL</h6>
             <div className="programming-language-listing">
               <h6 className="programming-language">React</h6>
               <h6 className="programming-language">PHP</h6>
+              <h6 className="programming-language">MySQL</h6>
               <h6 className="programming-language">AWS</h6>
-              <h6 className="programming-language">Tailwind</h6>
-            </div>
-          </div>
-          <div className="main-projects-list">
-            <a className="projects-list-year">Ongoing</a>
-            <div className="projects-list-work">
-              <h5>Web page for company</h5>
-              <h6>Web page for start-up company</h6>
-              <div className="programming-language-listing">
-                <h6 className="programming-language">React</h6>
-                <h6 className="programming-language">PHP</h6>
-                <h6 className="programming-language">AWS</h6>
-                <h6 className="programming-language">Tailwind</h6>
-              </div>
-            </div>
-          </div>
-
-          <div className="main-projects-list">
-            <a className="projects-list-year">Paused</a>
-            <div className="projects-list-work">
-              <h5>Web page for Netflix</h5>
-              <h6>Simple web application simulating current webpage</h6>
-              <div className="programming-language-listing">
-                <h6 className="programming-language">React</h6>
-                <h6 className="programming-language">CSS</h6>
-                <h6 className="programming-language">HTML</h6>
-              </div>
-            </div>
-          </div>
-
-          <div className="main-projects-list">
-            <a className="projects-list-year">2023 year</a>
-            <div className="projects-list-work">
-              <h5>Real Estate</h5>
-              <h6>Simple web application developed using HTML and CSS. This project was part of my technical training.</h6>
-              <div className="programming-language-listing">
-                <h6 className="programming-language">HTML</h6>
-                <h6 className="programming-language">CSS</h6>
-              </div>
             </div>
           </div>
         </div>
 
-        <div className="main-links">
-          <h2 className="main-links-h2">Links</h2>
-          <div className="main-links-general">
-            <div className="main-links-list">
-              <a className="links-list-year">GitHub</a>
+        <div className="main-projects-list">
+          <a className="projects-list-year">in 2024 year</a>
+          <div className="projects-list-work">
+            <a href="https://github.com/ModJuska123/Movie-Store-API-Automation-Testing-Project"><h5>Web page testing project</h5></a>
+            <h6>I developed several automation testing projects using Postman, Newman and Github Actions.</h6>
+            <div className="programming-language-listing">
+              <h6 className="programming-language">Postaman</h6>
+              <h6 className="programming-language">Workflow</h6>
+              <h6 className="programming-language">Node.js</h6>
+            </div>
+          </div>
+        </div>
+
+        <div className="main-projects-list">
+          <a className="projects-list-year">Paused</a>
+          <div className="projects-list-work">
+            <a href="https://github.com/ModJuska123/46-grupe-netflix"><h5>Web page for Netflix</h5></a>
+            <h6>Simple web application simulating current webpage</h6>
+            <div className="programming-language-listing">
+              <h6 className="programming-language">React</h6>
+              <h6 className="programming-language">CSS</h6>
+              <h6 className="programming-language">HTML</h6>
+            </div>
+          </div>
+        </div>
+
+        <div className="main-projects-list">
+          <a className="projects-list-year">2023 year</a>
+          <div className="projects-list-work">
+            <a href="https://modjuska123.github.io/46-grupe-real-estate/"><h5>Real Estate</h5></a>
+            <h6>Simple web application developed using HTML and CSS. This project was part of my technical training.</h6>
+            <div className="programming-language-listing">
+              <h6 className="programming-language">HTML</h6>
+              <h6 className="programming-language">CSS</h6>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div className="main-links">
+        <h2 className="main-links-h2">Links</h2>
+        <div className="main-links-general">
+          <div className="main-links-list">
+            <a className="links-list-year">GitHub</a>
+            <div className="links-list-work">
+              <a className="links-list-work-a" href="https://github.com/ModJuska123">https://github.com/ModJuska123</a>
+            </div>
+          </div>
+
+          <div className="main-links-list">
+            <p className="links-list-year">LinkedIn</p>
+            <div>
               <div className="links-list-work">
-                <a className="links-list-work-a" href="https://github.com/ModJuska123">ModJuska123</a>
-              </div>
-            </div>
-
-            <div className="main-links-list">
-              <p className="links-list-year">LinkedIn</p>
-              <div>
-                <div className="links-list-work">
-                  <a className="links-list-work-a" href="https://www.linkedin.com/in/modestas-j-b41b69267">https://www.linkedin.com/in/modestas-j-b41b69267</a>
-                </div>
+                <a className="links-list-work-a" href="https://www.linkedin.com/in/modestas-j-b41b69267">https://www.linkedin.com/in/modestas-j-b41b69267</a>
               </div>
             </div>
           </div>
         </div>
-        <p className='last-sentence'>
-          Webpage coded in Visual Studio Code. Built with React.js and CSS.
-        </p>
-        </div>
+      </div>
+      <p className='last-sentence'>
+        Webpage coded in Visual Studio Code. Built with React.js and CSS.
+      </p>
+
     </>
-)
+  )
 }
-      export default App;
+export default App;
