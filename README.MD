@@ -13,7 +13,7 @@ basic React (structure) and CSS (style)
 markdown
 desktop only
 
-## 🎎Table of Contents
+## 📑Table of Contents
 - Prerequisites
 - Installation
 - Run the app
