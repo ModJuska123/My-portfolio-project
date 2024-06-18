@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ModJuska123/My-portfolio-project/static/css/main.09c65620.css",
+    "main.js": "/ModJuska123/My-portfolio-project/static/js/main.105fcd31.js",
+    "static/media/logo.png": "/ModJuska123/My-portfolio-project/static/media/logo.5189592a2b7086461f96.png",
+    "index.html": "/ModJuska123/My-portfolio-project/index.html",
+    "main.09c65620.css.map": "/ModJuska123/My-portfolio-project/static/css/main.09c65620.css.map",
+    "main.105fcd31.js.map": "/ModJuska123/My-portfolio-project/static/js/main.105fcd31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09c65620.css",
+    "static/js/main.105fcd31.js"
+  ]
+}
