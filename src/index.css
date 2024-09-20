@@ -282,7 +282,7 @@ body {
   body {
     /* font-size: 14px; */
     width: 100%;
-    margin-left: calc(95% - 390px);
+    margin-left: calc(95% - 380px);
   }
 
   .main-header {
@@ -297,19 +297,9 @@ body {
 }
 
 /* Vidutinio dydžio ekranams (planšetėms) */
-@media (min-width: 601px) and (max-width: 1024px) {
+@media (max-width: 900px) {
   body {
-    /* font-size: 16px; */
     width: 100%;
     margin-left: calc(90% - 400px);
   }
-}
-
-/* Dideliems ekranams (kompiuteriams)
-@media (min-width: 1025px) {
-  body {
-      font-size: 18px;
-      width: 100%;
-      margin-left: calc(90% - 400px);
   }
-} */
