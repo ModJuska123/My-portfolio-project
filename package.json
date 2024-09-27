@@ -1,5 +1,6 @@
 {
-  "name": "porfolio",
+  "homepage": "https://ModJuska123.github.io/My-portfolio-project",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,10 +13,13 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
     "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+    
+    
   },
   "eslintConfig": {
     "extends": [
